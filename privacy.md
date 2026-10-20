@@ -5,7 +5,7 @@ permalink: /privacy/
 
 # Sphinxx Privacy Policy
 
-_Effective: October 19, 2026_
+_Effective: October 20, 2026_
 
 Sphinxx is a vocabulary app that blocks the apps you choose until you answer your own flashcards. This policy explains what Sphinxx collects, why, who processes it, and how to delete it.
 
@@ -19,7 +19,7 @@ When you create an account and use Sphinxx, we store the following on our server
 
 - **Account**: your email address and an account ID.
 - **Your study content**: the decks and cards you import or create (front, back, notes, tags, language), and the cards Sphinxx generates for you ("Sphinxx picks").
-- **Your answers**: what you typed for each card, whether it was right, how it was graded (exact match, AI or challenge), how long you took, your 👍/👎 feedback on AI grading with any note you add, and the grading instructions you write in Settings.
+- **Your answers**: what you typed — or said, as text — for each card, whether it was right, how it was graded (exact match, AI or challenge), how you answered (typed, spoken, or a flashcard you marked as known or not), whether you peeked with a hint or Show answer, how long you took, your 👍/👎 feedback on AI grading with any note you add, and the grading instructions you write in Settings.
 - **Study settings and level**: the number of correct answers needed, quiz direction, the languages you study, whether you allowed AI and when you decided, and a study level that the AI estimates from your cards when it generates new ones.
 - **Usage events**: when the block screen (shield) appears, when a quiz starts, passes or ends, unlocks and relocks, emergency bypasses, pauses, and **how many** apps, categories and websites you chose to block (for example "3 apps · 1 category").
 - **Diagnostic details**: error messages from the app and its Screen Time extensions, and the status of AI card generation requests.
@@ -29,6 +29,7 @@ We use this to run the app: sync your decks to a new phone, grade answers, verif
 ## 3. What we do not collect
 
 - **Which apps or websites you block.** Apple's Screen Time API gives Sphinxx an opaque token for each choice; the list stays on your phone, and we cannot read it.
+- **Your voice.** When you choose to answer out loud, Apple's speech recognition turns the sound into text **on your iPhone**. The sound is never sent to us or anyone else and is not stored — only the resulting text is kept, as your answer. iOS may download a speech model for that language from Apple; no audio is uploaded. Playing a pronunciation uses the voices built into iOS and sends nothing.
 - Your location, contacts, photos, health data, browsing history, or advertising identifier.
 - Sphinxx has **no advertising, no tracking, and no third-party analytics or crash-reporting SDKs**. We do not sell or share your data for advertising.
 
