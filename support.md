@@ -29,7 +29,7 @@ While the gate is locked, iOS does not let you delete apps — Sphinxx or any ot
 
 **An AI grade looks wrong.** Tap 👎 on the answer and add a note. You can also make grading stricter or more lenient in Settings → AI judge.
 
-**A card is wrong.** Open the deck, touch and hold the card and choose "Report — this card is odd". It will not be asked again.
+**A card is wrong.** Tap the flag (Report) during a quiz or study: the note goes to the end of the card's Example, and "Don't ask this card" leaves it out from the next quiz. The quiz you are in goes on as usual. To fix the card, open the deck and tap it; to stop asking it from there, touch and hold it and choose "Don't ask this card".
 
 **I got a new phone.** Sign in with the same account; your decks and progress come back. Then choose the apps to block again in Settings → Screen Time → "Change what is guarded" — Screen Time choices stay on the old phone.
 
