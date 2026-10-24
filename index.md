@@ -9,3 +9,4 @@ Answer your own flashcards to unlock the apps you choose.
 
 - [Support](support/)
 - [Privacy Policy](privacy/)
+- [Terms of Use](terms/)

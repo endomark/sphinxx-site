@@ -36,3 +36,5 @@ While the gate is locked, iOS does not let you delete apps — Sphinxx or any ot
 ## Privacy
 
 See the [Privacy Policy](https://endomark.github.io/sphinxx-site/privacy/). To delete your data, use Settings → Account → Delete account or write to us.
+
+See the [Terms of Use](https://endomark.github.io/sphinxx-site/terms/).
