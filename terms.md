@@ -5,7 +5,7 @@ permalink: /terms/
 
 # Sphinxx Terms of Use
 
-_Effective: October 22, 2026_
+_Effective: October 27, 2026_
 
 These terms apply when you use Sphinxx, made by YOUNGJUNE IM, an individual developer based in the Republic of Korea. By using Sphinxx, you agree to these terms. Our [Privacy Policy](https://endomark.github.io/sphinxx-site/privacy/) explains how we handle your data.
 
@@ -55,9 +55,7 @@ We may restrict or end access for a material breach of these terms or when requi
 
 We may update these terms as the service changes. We update the effective date and notify you in the app of material changes. Subscription prices and renewal changes are handled through Apple under its rules and applicable law.
 
-## 9. Governing law
-
-[GOVERNING LAW — TO BE CONFIRMED]
+## 9. Consumer rights
 
 Nothing in these terms takes away mandatory protections you have under the law of your country of residence.
 
