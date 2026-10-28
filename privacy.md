@@ -5,7 +5,7 @@ permalink: /privacy/
 
 # Sphinxx Privacy Policy
 
-_Effective: October 24, 2026_
+_Effective: October 28, 2026_
 
 Sphinxx is a vocabulary app that blocks the apps you choose until you answer your own flashcards. This policy explains what Sphinxx collects, why, who processes it, and how to delete it.
 
@@ -61,7 +61,7 @@ Sphinxx asks for your permission before the first AI use, and you can turn AI of
 
 Photo capture asks for its own permission the first time you use it, and you can turn it off at any time in **Settings → AI & data → Photo capture**. Without that permission, no photos are sent. Memory aids ask for their own permission in the same way (**Settings → AI & data → Memory aids**); without it, no cards are sent for memory aids.
 
-**Drawing pictures (third party: OpenAI).** When you ask Sphinxx to draw a picture for a card, we send a short description of the picture — written by the memory aid, not your own text — through our server to **OpenAI, L.L.C.**, which returns the image. We store the picture privately in your account (section 5). We do not send your email address or account ID to OpenAI. OpenAI does not use this data to train its models and may keep it for up to 30 days to monitor abuse. See [OpenAI's Privacy Policy](https://openai.com/policies/privacy-policy/). Drawing asks for its own permission the first time, and you can turn it off at any time in **Settings → AI & data → Drawn pictures**. Your own photos are never sent to OpenAI or any other AI.
+**Drawing pictures (third party: OpenAI).** When you ask Sphinxx to draw a picture for a card, we send a short description of the picture — written by the memory aid, not your own text — through our server to **OpenAI, L.L.C.**, which returns the image. We store the picture privately in your account (section 5). We do not send your email address or account ID to OpenAI. OpenAI does not use this data to train its models and may keep it for up to 30 days to monitor abuse. See [OpenAI's Privacy Policy](https://openai.com/policies/privacy-policy/). Drawing asks for its own permission the first time, and you can turn it off at any time in **Settings → AI & data → Drawn pictures**. Drawing pictures sends only the generated picture description to OpenAI. Photo capture separately sends selected page images and extracted text to Anthropic after consent, as described above.
 
 **Transcribing and translating recordings (third party: Soniox).** To transcribe a recording and translate live captions when translation is on, its audio goes to **Soniox, Inc.** in the United States — streamed while you record if live captions are on, or uploaded through our server when you finish. Soniox processes it only to return the transcript and, when enabled, live translations, and we delete the audio and the transcript from Soniox right after we receive the text. We do not send your email address or account ID to Soniox. Recordings ask for their own permissions the first time (**Settings → AI & data → Transcription** and **Recording review**); without them, recordings aren't transcribed or reviewed. Answers you say out loud are never sent to Soniox.
 
