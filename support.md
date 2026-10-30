@@ -5,7 +5,7 @@ permalink: /support/
 
 # Sphinxx Support
 
-Sphinxx blocks the apps you choose with Apple's Screen Time until you answer your own flashcards. Answer N cards correctly (10 by default, at least 5) and the apps open for a few minutes (5 by default, adjustable in Settings).
+Sphinxx blocks the apps you choose with Apple's Screen Time until you answer your own flashcards. Answer N cards correctly (10 by default, at least 5) and the apps open for 25 minutes.
 
 **Contact**: [imyoungjun883@gmail.com](mailto:imyoungjun883@gmail.com) — we usually reply within a few days.
 
@@ -13,8 +13,8 @@ Sphinxx blocks the apps you choose with Apple's Screen Time until you answer you
 
 There is no one-tap off switch on purpose, but you are never stuck:
 
-1. **Answer the cards**: Gate tab → Answer, or the shield's Answer button → notification → quiz. If every card is resting or mastered, the quiz asks those cards instead. Unlocking again within 30 minutes of the last unlock takes twice as many correct answers (then 4×, 8×…); after a 30-minute break it is back to N.
-2. **Emergency bypass**: 5 minutes, once a week, from the Gate tab (Emergency). The shield shows how many are left.
+1. **Answer the cards**: Gate tab → Answer, or the shield's Answer button → notification → quiz. If every card is resting or mastered, the quiz asks those cards instead.
+2. **Emergency bypass**: 5 minutes, once a week, from the shield or the Gate tab.
 3. **Pause the gate**: Settings → Screen Time → "Turn the gate off…" → 1, 4 or 8 hours. It takes a longer quiz first, then locks again by itself.
 4. **Turn it off for good**: Settings → Screen Time → "Change what is guarded" → remove everything → Save, then the same longer quiz.
 5. **Sign out**: Settings → Account → Sign out. While the gate is on, it takes the longer quiz, then turns the gate off.
