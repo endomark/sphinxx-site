@@ -17,7 +17,7 @@ There is no one-tap off switch on purpose, but you are never stuck:
 2. **Emergency bypass**: 5 minutes, once a week, from the shield or the Gate tab.
 3. **Pause the gate**: Settings → Screen Time → "Turn the gate off…" → 1, 4 or 8 hours. It takes a longer quiz first, then locks again by itself.
 4. **Turn it off for good**: Settings → Screen Time → "Change what is guarded" → remove everything → Save, then the same longer quiz.
-5. **Sign out**: Settings → Account → Sign out. While the gate is on, it takes the longer quiz, then turns the gate off.
+5. **Sign out** (accounts only — a guest has no sign-out): Settings → Account → Sign out. While the gate is on, it takes the longer quiz, then turns the gate off.
 6. **Delete your account**: Settings → Account → Delete account. No quiz; it deletes your server data and turns the gate off.
 7. **iOS Settings → Screen Time**: you can always revoke Sphinxx's Screen Time access there.
 
@@ -31,7 +31,7 @@ While the gate is locked, iOS does not let you delete apps — Sphinxx or any ot
 
 **A card is wrong.** Tap the flag (Report) during a quiz or study: the note goes to the end of the card's Example, and "Don't ask this card" leaves it out from the next quiz. The quiz you are in goes on as usual. To fix the card, open the deck and tap it; to stop asking it from there, touch and hold it and choose "Don't ask this card".
 
-**I got a new phone.** Sign in with the same account; your decks and progress come back. Then choose the apps to block again in Settings → Screen Time → "Change what is guarded" — Screen Time choices stay on the old phone.
+**I got a new phone.** Sign in with the same account; your decks and progress come back. If you used Sphinxx as a guest, create an account on the old phone first (Settings → Account → Create account) — a guest exists only on that phone. Then choose the apps to block again in Settings → Screen Time → "Change what is guarded" — Screen Time choices stay on the old phone.
 
 ## Privacy
 
